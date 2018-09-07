@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Lab_1_5_Strings.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MainMenu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Select the operation:{1}{0}1 - Absolute value of the difference between two numbers;{1}{0}2 - Record of the number as a binary string;{1}{0}3 - Morse code as a sound;{1}{0}q - Exit!!!{1}{2}</Value>
+    </Setting>
+    <Setting Name="AbsoluteValue_MinTypingValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">s/upcHu4QNo=</Value>
+    </Setting>
+    <Setting Name="AbsoluteValue_MaxTypingValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">P00cYl/aeOs=</Value>
+    </Setting>
+    <Setting Name="AbsoluteValue_Delimiter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PVniIRKwu3k=
+</Value>
+    </Setting>
+    <Setting Name="AbsoluteValue_ReplaceToSymbol" Type="System.String" Scope="User">
+      <Value Profile="(Default)">s/upcHu4QNo=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

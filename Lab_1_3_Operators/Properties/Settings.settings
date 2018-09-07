@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Lab_1_3_Operators.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PuzzleFarmerKey1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BTcy1DCE32820Ti6We5U5Q==</Value>
+    </Setting>
+    <Setting Name="PuzzleFarmerKey2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">B4hXmFaDNUaCz7zDG3DUTA==</Value>
+    </Setting>
+    <Setting Name="PuzzleFarmerMaxAttemptsCount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Cag6XKil1HA=</Value>
+    </Setting>
+    <Setting Name="MainMenu" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Select the operation:{1}{0}1 - Puzzle The farmer, wolf, goat and cabbage;{1}{0}2 - Simple calculator;{1}{0}3 - Factorial;{1}{0}4 - Guess the number;{1}{0}q - Exit!!!{1}{2}</Value>
+    </Setting>
+    <Setting Name="MainMenu_MaxIncorectInputCount" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HGibqDVVnoc=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
