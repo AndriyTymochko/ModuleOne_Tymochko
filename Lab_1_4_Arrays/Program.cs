@@ -22,8 +22,14 @@ namespace Lab_1_4_Arrays
                     //to create and store the reference to object that represents all methods 
                     //with the manipulation of organization hardware (creation/modifying/inspection)
                 IOrganization orgProvider = new Organization();
-                    //resize the console window 
-                ConsoleIO.ResizeConsoleWindow(Console.WindowWidth + 30, Console.WindowHeight + 18);
+                //resize the console window 
+                /*
+                 * Збільшувати розмір консолі, завчасно не дізнавшись який максимальний допустимий на комп'ютері користувача не бажано, 
+                 * буде помилка (T:System.ArgumentOutOfRangeException). Наприклад, якщо в мене вже стоїть макс розмір консолі, 
+                 * а в коді "Console.WindowWidth + 30"
+                 * його збільшують ще більше, такі нюанси зачасту прописані в описі до методу чи властивостей (Console.WindowHeight).
+                */
+                ConsoleIO.ResizeConsoleWindow(100, 40);
 
                     //to show the full status of organisation hardware  
                 ConsoleIO.WriteColorTextNewLine("Organization hardware status", ConsoleColor.Yellow);

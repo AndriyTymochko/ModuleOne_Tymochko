@@ -193,7 +193,7 @@ namespace Lab_1_4_Arrays.Core
                             {
                                 compCount += comp.Length;
                                 if (string.IsNullOrEmpty(nameAsStringRep))
-                                    nameAsStringRep = ((Computer)comp[0]).ToString();
+                                    nameAsStringRep = comp[0].ToString();
                             }
                         }
                     }
